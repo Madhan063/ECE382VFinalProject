@@ -1,0 +1,99 @@
+##################### alexnet model #####################
+Unquantized (FP32) alexnet Model evaluation accuracy: 0.849
+Unquantized (FP32) alexnet Model cuda:0 latency: 2.50 ms / sample
+Quantized (s: 1 e: 1 m: 1) alexnet Model evaluation accuracy: 0.107
+Quantized (s: 1 e: 1 m: 1) alexnet Model cuda:0 latency: 2.59 ms / sample
+Quantized (s: 1 e: 3 m: 1) alexnet Model evaluation accuracy: 0.098
+Quantized (s: 1 e: 3 m: 1) alexnet Model cuda:0 latency: 4.70 ms / sample
+Quantized (s: 1 e: 5 m: 1) alexnet Model evaluation accuracy: 0.730
+Quantized (s: 1 e: 5 m: 1) alexnet Model cuda:0 latency: 2.64 ms / sample
+Quantized (s: 1 e: 7 m: 1) alexnet Model evaluation accuracy: 0.730
+Quantized (s: 1 e: 7 m: 1) alexnet Model cuda:0 latency: 2.65 ms / sample
+Quantized (s: 1 e: 1 m: 3) alexnet Model evaluation accuracy: 0.108
+Quantized (s: 1 e: 1 m: 3) alexnet Model cuda:0 latency: 2.59 ms / sample
+Quantized (s: 1 e: 3 m: 3) alexnet Model evaluation accuracy: 0.105
+Quantized (s: 1 e: 3 m: 3) alexnet Model cuda:0 latency: 2.64 ms / sample
+Quantized (s: 1 e: 5 m: 3) alexnet Model evaluation accuracy: 0.843
+Quantized (s: 1 e: 5 m: 3) alexnet Model cuda:0 latency: 2.59 ms / sample
+Quantized (s: 1 e: 7 m: 3) alexnet Model evaluation accuracy: 0.843
+Quantized (s: 1 e: 7 m: 3) alexnet Model cuda:0 latency: 2.73 ms / sample
+Quantized (s: 1 e: 1 m: 5) alexnet Model evaluation accuracy: 0.109
+Quantized (s: 1 e: 1 m: 5) alexnet Model cuda:0 latency: 2.55 ms / sample
+Quantized (s: 1 e: 3 m: 5) alexnet Model evaluation accuracy: 0.105
+Quantized (s: 1 e: 3 m: 5) alexnet Model cuda:0 latency: 2.61 ms / sample
+Quantized (s: 1 e: 5 m: 5) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 5 m: 5) alexnet Model cuda:0 latency: 2.57 ms / sample
+Quantized (s: 1 e: 7 m: 5) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 7 m: 5) alexnet Model cuda:0 latency: 2.63 ms / sample
+Quantized (s: 1 e: 1 m: 7) alexnet Model evaluation accuracy: 0.109
+Quantized (s: 1 e: 1 m: 7) alexnet Model cuda:0 latency: 2.83 ms / sample
+Quantized (s: 1 e: 3 m: 7) alexnet Model evaluation accuracy: 0.104
+Quantized (s: 1 e: 3 m: 7) alexnet Model cuda:0 latency: 2.61 ms / sample
+Quantized (s: 1 e: 5 m: 7) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 5 m: 7) alexnet Model cuda:0 latency: 2.75 ms / sample
+Quantized (s: 1 e: 7 m: 7) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 7 m: 7) alexnet Model cuda:0 latency: 2.90 ms / sample
+Quantized (s: 1 e: 1 m: 9) alexnet Model evaluation accuracy: 0.108
+Quantized (s: 1 e: 1 m: 9) alexnet Model cuda:0 latency: 2.68 ms / sample
+Quantized (s: 1 e: 3 m: 9) alexnet Model evaluation accuracy: 0.104
+Quantized (s: 1 e: 3 m: 9) alexnet Model cuda:0 latency: 2.66 ms / sample
+Quantized (s: 1 e: 5 m: 9) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 5 m: 9) alexnet Model cuda:0 latency: 2.76 ms / sample
+Quantized (s: 1 e: 7 m: 9) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 7 m: 9) alexnet Model cuda:0 latency: 2.85 ms / sample
+Quantized (s: 1 e: 1 m: 11) alexnet Model evaluation accuracy: 0.108
+Quantized (s: 1 e: 1 m: 11) alexnet Model cuda:0 latency: 2.79 ms / sample
+Quantized (s: 1 e: 3 m: 11) alexnet Model evaluation accuracy: 0.104
+Quantized (s: 1 e: 3 m: 11) alexnet Model cuda:0 latency: 2.89 ms / sample
+Quantized (s: 1 e: 5 m: 11) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 5 m: 11) alexnet Model cuda:0 latency: 2.70 ms / sample
+Quantized (s: 1 e: 7 m: 11) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 7 m: 11) alexnet Model cuda:0 latency: 3.03 ms / sample
+Quantized (s: 1 e: 1 m: 13) alexnet Model evaluation accuracy: 0.108
+Quantized (s: 1 e: 1 m: 13) alexnet Model cuda:0 latency: 2.76 ms / sample
+Quantized (s: 1 e: 3 m: 13) alexnet Model evaluation accuracy: 0.104
+Quantized (s: 1 e: 3 m: 13) alexnet Model cuda:0 latency: 2.99 ms / sample
+Quantized (s: 1 e: 5 m: 13) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 5 m: 13) alexnet Model cuda:0 latency: 2.94 ms / sample
+Quantized (s: 1 e: 7 m: 13) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 7 m: 13) alexnet Model cuda:0 latency: 2.85 ms / sample
+Quantized (s: 1 e: 1 m: 15) alexnet Model evaluation accuracy: 0.108
+Quantized (s: 1 e: 1 m: 15) alexnet Model cuda:0 latency: 3.00 ms / sample
+Quantized (s: 1 e: 3 m: 15) alexnet Model evaluation accuracy: 0.104
+Quantized (s: 1 e: 3 m: 15) alexnet Model cuda:0 latency: 2.79 ms / sample
+Quantized (s: 1 e: 5 m: 15) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 5 m: 15) alexnet Model cuda:0 latency: 2.97 ms / sample
+Quantized (s: 1 e: 7 m: 15) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 7 m: 15) alexnet Model cuda:0 latency: 2.99 ms / sample
+Quantized (s: 1 e: 1 m: 17) alexnet Model evaluation accuracy: 0.108
+Quantized (s: 1 e: 1 m: 17) alexnet Model cuda:0 latency: 2.87 ms / sample
+Quantized (s: 1 e: 3 m: 17) alexnet Model evaluation accuracy: 0.104
+Quantized (s: 1 e: 3 m: 17) alexnet Model cuda:0 latency: 2.95 ms / sample
+Quantized (s: 1 e: 5 m: 17) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 5 m: 17) alexnet Model cuda:0 latency: 2.98 ms / sample
+Quantized (s: 1 e: 7 m: 17) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 7 m: 17) alexnet Model cuda:0 latency: 2.81 ms / sample
+Quantized (s: 1 e: 1 m: 19) alexnet Model evaluation accuracy: 0.108
+Quantized (s: 1 e: 1 m: 19) alexnet Model cuda:0 latency: 2.81 ms / sample
+Quantized (s: 1 e: 3 m: 19) alexnet Model evaluation accuracy: 0.104
+Quantized (s: 1 e: 3 m: 19) alexnet Model cuda:0 latency: 3.02 ms / sample
+Quantized (s: 1 e: 5 m: 19) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 5 m: 19) alexnet Model cuda:0 latency: 3.03 ms / sample
+Quantized (s: 1 e: 7 m: 19) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 7 m: 19) alexnet Model cuda:0 latency: 2.97 ms / sample
+Quantized (s: 1 e: 1 m: 21) alexnet Model evaluation accuracy: 0.108
+Quantized (s: 1 e: 1 m: 21) alexnet Model cuda:0 latency: 2.93 ms / sample
+Quantized (s: 1 e: 3 m: 21) alexnet Model evaluation accuracy: 0.104
+Quantized (s: 1 e: 3 m: 21) alexnet Model cuda:0 latency: 2.86 ms / sample
+Quantized (s: 1 e: 5 m: 21) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 5 m: 21) alexnet Model cuda:0 latency: 2.92 ms / sample
+Quantized (s: 1 e: 7 m: 21) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 7 m: 21) alexnet Model cuda:0 latency: 3.06 ms / sample
+Quantized (s: 1 e: 1 m: 23) alexnet Model evaluation accuracy: 0.108
+Quantized (s: 1 e: 1 m: 23) alexnet Model cuda:0 latency: 2.93 ms / sample
+Quantized (s: 1 e: 3 m: 23) alexnet Model evaluation accuracy: 0.104
+Quantized (s: 1 e: 3 m: 23) alexnet Model cuda:0 latency: 2.98 ms / sample
+Quantized (s: 1 e: 5 m: 23) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 5 m: 23) alexnet Model cuda:0 latency: 2.84 ms / sample
+Quantized (s: 1 e: 7 m: 23) alexnet Model evaluation accuracy: 0.849
+Quantized (s: 1 e: 7 m: 23) alexnet Model cuda:0 latency: 2.86 ms / sample

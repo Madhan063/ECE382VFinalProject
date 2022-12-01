@@ -1,0 +1,99 @@
+##################### resnet50 model #####################
+Unquantized (FP32) resnet50 Model evaluation accuracy: 0.791
+Unquantized (FP32) resnet50 Model cuda:0 latency: 7.81 ms / sample
+Quantized (s: 1 e: 1 m: 1) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 1) resnet50 Model cuda:0 latency: 8.91 ms / sample
+Quantized (s: 1 e: 3 m: 1) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 3 m: 1) resnet50 Model cuda:0 latency: 10.15 ms / sample
+Quantized (s: 1 e: 5 m: 1) resnet50 Model evaluation accuracy: 0.121
+Quantized (s: 1 e: 5 m: 1) resnet50 Model cuda:0 latency: 12.46 ms / sample
+Quantized (s: 1 e: 7 m: 1) resnet50 Model evaluation accuracy: 0.121
+Quantized (s: 1 e: 7 m: 1) resnet50 Model cuda:0 latency: 12.72 ms / sample
+Quantized (s: 1 e: 1 m: 3) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 3) resnet50 Model cuda:0 latency: 20.07 ms / sample
+Quantized (s: 1 e: 3 m: 3) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 3 m: 3) resnet50 Model cuda:0 latency: 12.22 ms / sample
+Quantized (s: 1 e: 5 m: 3) resnet50 Model evaluation accuracy: 0.465
+Quantized (s: 1 e: 5 m: 3) resnet50 Model cuda:0 latency: 27.97 ms / sample
+Quantized (s: 1 e: 7 m: 3) resnet50 Model evaluation accuracy: 0.465
+Quantized (s: 1 e: 7 m: 3) resnet50 Model cuda:0 latency: 13.36 ms / sample
+Quantized (s: 1 e: 1 m: 5) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 5) resnet50 Model cuda:0 latency: 14.45 ms / sample
+Quantized (s: 1 e: 3 m: 5) resnet50 Model evaluation accuracy: 0.067
+Quantized (s: 1 e: 3 m: 5) resnet50 Model cuda:0 latency: 16.15 ms / sample
+Quantized (s: 1 e: 5 m: 5) resnet50 Model evaluation accuracy: 0.786
+Quantized (s: 1 e: 5 m: 5) resnet50 Model cuda:0 latency: 14.30 ms / sample
+Quantized (s: 1 e: 7 m: 5) resnet50 Model evaluation accuracy: 0.786
+Quantized (s: 1 e: 7 m: 5) resnet50 Model cuda:0 latency: 14.42 ms / sample
+Quantized (s: 1 e: 1 m: 7) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 7) resnet50 Model cuda:0 latency: 15.20 ms / sample
+Quantized (s: 1 e: 3 m: 7) resnet50 Model evaluation accuracy: 0.072
+Quantized (s: 1 e: 3 m: 7) resnet50 Model cuda:0 latency: 14.31 ms / sample
+Quantized (s: 1 e: 5 m: 7) resnet50 Model evaluation accuracy: 0.788
+Quantized (s: 1 e: 5 m: 7) resnet50 Model cuda:0 latency: 14.02 ms / sample
+Quantized (s: 1 e: 7 m: 7) resnet50 Model evaluation accuracy: 0.788
+Quantized (s: 1 e: 7 m: 7) resnet50 Model cuda:0 latency: 12.91 ms / sample
+Quantized (s: 1 e: 1 m: 9) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 9) resnet50 Model cuda:0 latency: 14.66 ms / sample
+Quantized (s: 1 e: 3 m: 9) resnet50 Model evaluation accuracy: 0.073
+Quantized (s: 1 e: 3 m: 9) resnet50 Model cuda:0 latency: 14.26 ms / sample
+Quantized (s: 1 e: 5 m: 9) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 5 m: 9) resnet50 Model cuda:0 latency: 15.93 ms / sample
+Quantized (s: 1 e: 7 m: 9) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 7 m: 9) resnet50 Model cuda:0 latency: 13.71 ms / sample
+Quantized (s: 1 e: 1 m: 11) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 11) resnet50 Model cuda:0 latency: 13.50 ms / sample
+Quantized (s: 1 e: 3 m: 11) resnet50 Model evaluation accuracy: 0.074
+Quantized (s: 1 e: 3 m: 11) resnet50 Model cuda:0 latency: 15.02 ms / sample
+Quantized (s: 1 e: 5 m: 11) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 5 m: 11) resnet50 Model cuda:0 latency: 17.23 ms / sample
+Quantized (s: 1 e: 7 m: 11) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 7 m: 11) resnet50 Model cuda:0 latency: 17.29 ms / sample
+Quantized (s: 1 e: 1 m: 13) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 13) resnet50 Model cuda:0 latency: 15.90 ms / sample
+Quantized (s: 1 e: 3 m: 13) resnet50 Model evaluation accuracy: 0.074
+Quantized (s: 1 e: 3 m: 13) resnet50 Model cuda:0 latency: 16.66 ms / sample
+Quantized (s: 1 e: 5 m: 13) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 5 m: 13) resnet50 Model cuda:0 latency: 17.01 ms / sample
+Quantized (s: 1 e: 7 m: 13) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 7 m: 13) resnet50 Model cuda:0 latency: 17.02 ms / sample
+Quantized (s: 1 e: 1 m: 15) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 15) resnet50 Model cuda:0 latency: 16.50 ms / sample
+Quantized (s: 1 e: 3 m: 15) resnet50 Model evaluation accuracy: 0.074
+Quantized (s: 1 e: 3 m: 15) resnet50 Model cuda:0 latency: 15.87 ms / sample
+Quantized (s: 1 e: 5 m: 15) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 5 m: 15) resnet50 Model cuda:0 latency: 16.77 ms / sample
+Quantized (s: 1 e: 7 m: 15) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 7 m: 15) resnet50 Model cuda:0 latency: 17.62 ms / sample
+Quantized (s: 1 e: 1 m: 17) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 17) resnet50 Model cuda:0 latency: 14.75 ms / sample
+Quantized (s: 1 e: 3 m: 17) resnet50 Model evaluation accuracy: 0.074
+Quantized (s: 1 e: 3 m: 17) resnet50 Model cuda:0 latency: 15.84 ms / sample
+Quantized (s: 1 e: 5 m: 17) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 5 m: 17) resnet50 Model cuda:0 latency: 16.55 ms / sample
+Quantized (s: 1 e: 7 m: 17) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 7 m: 17) resnet50 Model cuda:0 latency: 18.26 ms / sample
+Quantized (s: 1 e: 1 m: 19) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 19) resnet50 Model cuda:0 latency: 17.58 ms / sample
+Quantized (s: 1 e: 3 m: 19) resnet50 Model evaluation accuracy: 0.074
+Quantized (s: 1 e: 3 m: 19) resnet50 Model cuda:0 latency: 18.41 ms / sample
+Quantized (s: 1 e: 5 m: 19) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 5 m: 19) resnet50 Model cuda:0 latency: 17.41 ms / sample
+Quantized (s: 1 e: 7 m: 19) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 7 m: 19) resnet50 Model cuda:0 latency: 19.79 ms / sample
+Quantized (s: 1 e: 1 m: 21) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 21) resnet50 Model cuda:0 latency: 17.47 ms / sample
+Quantized (s: 1 e: 3 m: 21) resnet50 Model evaluation accuracy: 0.074
+Quantized (s: 1 e: 3 m: 21) resnet50 Model cuda:0 latency: 19.02 ms / sample
+Quantized (s: 1 e: 5 m: 21) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 5 m: 21) resnet50 Model cuda:0 latency: 15.80 ms / sample
+Quantized (s: 1 e: 7 m: 21) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 7 m: 21) resnet50 Model cuda:0 latency: 14.49 ms / sample
+Quantized (s: 1 e: 1 m: 23) resnet50 Model evaluation accuracy: 0.100
+Quantized (s: 1 e: 1 m: 23) resnet50 Model cuda:0 latency: 16.62 ms / sample
+Quantized (s: 1 e: 3 m: 23) resnet50 Model evaluation accuracy: 0.074
+Quantized (s: 1 e: 3 m: 23) resnet50 Model cuda:0 latency: 16.25 ms / sample
+Quantized (s: 1 e: 5 m: 23) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 5 m: 23) resnet50 Model cuda:0 latency: 18.37 ms / sample
+Quantized (s: 1 e: 7 m: 23) resnet50 Model evaluation accuracy: 0.791
+Quantized (s: 1 e: 7 m: 23) resnet50 Model cuda:0 latency: 15.48 ms / sample
